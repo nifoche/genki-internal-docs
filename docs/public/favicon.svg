@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Background circle -->
+  <circle cx="50" cy="50" r="50" fill="#3c8772"/>
+
+  <!-- Building silhouette -->
+  <rect x="30" y="35" width="40" height="50" fill="#ffffff" rx="2"/>
+  <rect x="25" y="30" width="50" height="5" fill="#ffffff" rx="1"/>
+
+  <!-- Windows -->
+  <rect x="35" y="40" width="8" height="10" fill="#3c8772" rx="1"/>
+  <rect x="47" y="40" width="8" height="10" fill="#3c8772" rx="1"/>
+  <rect x="59" y="40" width="8" height="10" fill="#3c8772" rx="1"/>
+
+  <rect x="35" y="55" width="8" height="10" fill="#3c8772" rx="1"/>
+  <rect x="47" y="55" width="8" height="10" fill="#3c8772" rx="1"/>
+  <rect x="59" y="55" width="8" height="10" fill="#3c8772" rx="1"/>
+
+  <rect x="35" y="70" width="8" height="10" fill="#3c8772" rx="1"/>
+  <rect x="47" y="70" width="8" height="10" fill="#3c8772" rx="1"/>
+  <rect x="59" y="70" width="8" height="10" fill="#3c8772" rx="1"/>
+
+  <!-- Door -->
+  <rect x="42" y="82" width="16" height="8" fill="#3c8772" rx="1"/>
+
+  <!-- Plant accent (botanical concept) -->
+  <circle cx="70" cy="25" r="8" fill="#a7f3d0" opacity="0.9"/>
+  <circle cx="80" cy="20" r="6" fill="#a7f3d0" opacity="0.7"/>
+  <circle cx="75" cy="15" r="5" fill="#a7f3d0" opacity="0.8"/>
+</svg>
