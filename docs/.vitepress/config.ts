@@ -136,6 +136,7 @@ export default defineConfig({
                 { text: '資材価格検証', link: '/projects/ono-mansion/data/material-cost-verification-2026-02-07' },
                 { text: 'コスト管理シート', link: '/projects/ono-mansion/financials/ono-mansion-cost-management-sheet' },
                 { text: 'プロ推奨コース：商品選定', link: '/projects/ono-mansion/financials/plan-a-pro-course-materials' },
+                { text: 'プロ推奨コース：積算書', link: '/projects/ono-mansion/financials/plan-a-pro-course-cost-breakdown' },
               ]
             },
           ]
