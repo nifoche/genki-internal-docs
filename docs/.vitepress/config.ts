@@ -5,6 +5,9 @@ export default defineConfig({
   description: '社内向けドキュメント共有プラットフォーム',
   lang: 'ja-JP',
 
+  // GitHub Pages用baseパス設定
+  base: '/genki-internal-docs/',
+
   ignoreDeadLinks: true,
 
   head: [
