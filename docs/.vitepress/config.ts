@@ -41,7 +41,9 @@ export default defineConfig({
                 { text: 'プランC（ハイブリッド）', link: '/projects/ono-mansion/plans/plan-c-hybrid-implementation' },
                 { text: '詳細WBS（45日工期）', link: '/projects/ono-mansion/plans/wbs-detailed-schedule' },
                 { text: 'コンセプトルーム（34㎡ 2K）', link: '/projects/ono-mansion/plans/00-concept-room' },
-                { text: 'コンセプトルーム（43.91㎡ 1LDK）', link: '/projects/ono-mansion/plans/01-concept-room-1ldk-43-91sqm' },
+                { text: 'コンセプトルーム（43.91㎡ 1LDK・60点版）', link: '/projects/ono-mansion/plans/01-concept-room-1ldk-43-91sqm' },
+                { text: 'コンセプトルーム（43.91㎡ 1LDK・100点版）', link: '/projects/ono-mansion/plans/02-concept-room-1ldk-43-91sqm-pro-level' },
+                { text: '60点→100点への改善計画', link: '/projects/ono-mansion/plans/concept-room-60-to-100-gap-analysis' },
                 { text: '大人の秘密基底プラン', link: '/projects/ono-mansion/plans/2026-03-04-adult-secret-base-plan' },
                 { text: '猫ルームInstagramプラン', link: '/projects/ono-mansion/plans/neko_room_instagram_plan_1' },
               ]
